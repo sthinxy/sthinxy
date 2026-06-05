@@ -1,8 +1,8 @@
 <div align="center">
-  
+
 <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=500&size=19&duration=3200&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=There+is+always+something+behind+the+screen.;The+screen+is+white.;The+code+is+quiet.;The+project+continues." alt="Typing SVG" />
 
-<div align="center">
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=WHITE%20SPACE&fontColor=ffffff&fontSize=38&animation=fadeIn&fontAlignY=35"/>
 
@@ -12,22 +12,29 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header"/>
 
+</div>
+
 #
 
-<p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas pela UNIFACS, em processo de construção da minha trajetória na área de tecnologia. Atualmente, concentro meus estudos em lógica de programação, Java, SQL, Programação Orientada a Objetos, modelagem de software e estruturas de dados básicas. Busco transformar o conhecimento adquirido durante a graduação em projetos práticos, organizados e funcionais. Tenho interesse em desenvolvimento de sistemas, criação de interfaces e soluções tecnológicas que unam clareza, estrutura e propósito. Minha formação ainda está em andamento, mas cada projeto representa uma etapa importante no meu desenvolvimento profissional.
-
+<p align="center">
+Sou estudante de Análise e Desenvolvimento de Sistemas pela UNIFACS, em processo de construção da minha trajetória na área de tecnologia. Atualmente, concentro meus estudos em lógica de programação, Java, SQL, Programação Orientada a Objetos, modelagem de software e estruturas de dados básicas. Busco transformar o conhecimento adquirido durante a graduação em projetos práticos, organizados e funcionais. Tenho interesse em desenvolvimento de sistemas, criação de interfaces e soluções tecnológicas que unam clareza, estrutura e propósito. Minha formação ainda está em andamento, mas cada projeto representa uma etapa importante no meu desenvolvimento profissional.
+</p>
 
 #
 
 <br>
 
+<div align="center">
+
 ```txt
 Waiting for something to happen?
 ```
 
+</div>
+
 ---
 
-## Conhecimentos técnicos
+<h2 align="center">Conhecimentos técnicos</h2>
 
 <div align="center">
 
@@ -43,36 +50,100 @@ Waiting for something to happen?
 
 <br>
 
-* Lógica de programação
-* Java básico
-* Programação Orientada a Objetos
-* SQL básico
-* Modelagem de software
-* Estruturas de dados básicas
-* Noções de desenvolvimento de sistemas
-* Pacote Office / Google Workspace
-* HTML, CSS e JavaScript em estudo
+<div align="center">
+
+Lógica de programação • Java básico • Programação Orientada a Objetos
+SQL básico • Modelagem de software • Estruturas de dados básicas
+HTML, CSS e JavaScript • Git e GitHub • Pacote Office / Google Workspace
+
+</div>
 
 ---
 
 <div align="center">
-
-</div>
-
-<br>
 
 ```txt
 A quiet mind, a blank screen, and something waiting to exist.
 ```
 
+</div>
+
+---
+
+<h2 align="center">Projetos em destaque</h2> 
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>Something To Do</h3>
+      <p>
+        Lista de tarefas com sistema de prioridades, filtros, contadores e salvamento local.
+      </p>
+      <p>
+        <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>LocalStorage</code>
+      </p>
+      <a href="https://sthinxy.github.io/something-to-do/">
+        <img src="https://img.shields.io/badge/VER%20SITE-000000?style=for-the-badge&logo=githubpages&logoColor=FFFFFF&labelColor=000000&color=000000" alt="Ver site">
+      </a>
+      <br><br>
+      <a href="https://github.com/sthinxy/something-to-do">
+        <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000&color=000000" alt="Repositório">
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <h3>Portfolio</h3>
+      <p>
+        Portfólio pessoal com estética monocromática, alternância entre WHITE SPACE e BLACK SPACE e interações visuais.
+      </p>
+      <p>
+        <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>UI</code>
+      </p>
+      <a href="https://sthinxy.github.io/portfolio/">
+        <img src="https://img.shields.io/badge/VER%20SITE-000000?style=for-the-badge&logo=githubpages&logoColor=FFFFFF&labelColor=000000&color=000000" alt="Ver site">
+      </a>
+      <br><br>
+      <a href="https://github.com/sthinxy/portfolio">
+        <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000&color=000000" alt="Repositório">
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <h3>Noir Café</h3>
+      <p>
+        Cardápio digital interativo com filtros, carrinho funcional, quiz, login fictício e pedido via WhatsApp.
+      </p>
+      <p>
+        <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>LocalStorage</code>
+      </p>
+      <a href="https://sthinxy.github.io/noircafe/">
+        <img src="https://img.shields.io/badge/VER%20SITE-000000?style=for-the-badge&logo=githubpages&logoColor=FFFFFF&labelColor=000000&color=000000" alt="Ver site">
+      </a>
+      <br><br>
+      <a href="https://github.com/sthinxy/noircafe">
+        <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000&color=000000" alt="Repositório">
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 <div align="center">
 
+```txt
+The screen is not empty anymore.
+Three fragments were saved.
+The project continues.
+```
+
 </div>
 
-## Contato
+---
+
+<h2 align="center">Contato</h2>
 
 <div align="center">
 
@@ -85,21 +156,17 @@ A quiet mind, a blank screen, and something waiting to exist.
 ---
 
 <div align="center">
-  
-
 
 <br><br>
 
-
-<img align="right" height="260" src="./assets/OMORI.gif">
-
-
 <img src="https://komarev.com/ghpvc/?username=sthinxy&label=visitas&color=000000&style=for-the-badge" alt="contador de visitas" />
+
+<br><br>
+
+<img height="260" src="./assets/OMORI.gif" alt="OMORI gif">
 
 <br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=110&section=footer"/>
 
 </div>
-
-
