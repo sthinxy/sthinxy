@@ -49,13 +49,16 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela UNIFACS, em process
 <img alt="JavaScript" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img alt="Git" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img alt="GitHub" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img alt="VS Code" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img alt="Chrome" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg">
 
 <br><br>
 
 <p align="center">
 Lógica de programação • Java básico • Programação Orientada a Objetos<br>
 SQL básico • Modelagem de software • Estruturas de dados básicas<br>
-HTML, CSS e JavaScript • Git e GitHub • Pacote Office / Google Workspace
+HTML, CSS e JavaScript • DOM • LocalStorage • Responsividade<br>
+Git e GitHub • GitHub Pages • Interfaces web • Pacote Office / Google Workspace
 </p>
 
 </div>
