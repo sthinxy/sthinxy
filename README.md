@@ -161,6 +161,7 @@ Git e GitHub • GitHub Pages • Interfaces web • Pacote Office / Google Work
 <div align="center">
 
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge\&logo=gmail\&logoColor=FFFFFF\&labelColor=000000\&color=000000)](mailto:venanciobeatriz620@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge\&logo=whatsapp\&logoColor=FFFFFF\&labelColor=000000\&color=000000)](https://wa.me/557196356879)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge\&logo=instagram\&logoColor=FFFFFF\&labelColor=000000\&color=000000)](https://www.instagram.com/noirdescent/)
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=FFFFFF\&labelColor=000000\&color=000000)](https://github.com/sthinxy)
 
