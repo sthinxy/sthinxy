@@ -26,9 +26,13 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela UNIFACS, em process
 
 <div align="center">
 
-```txt
-Waiting for something to happen?
-```
+<table>
+  <tr>
+    <td align="center">
+      <code>Waiting for something to happen?</code>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -46,15 +50,13 @@ Waiting for something to happen?
 <img alt="Git" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img alt="GitHub" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-Lógica de programação • Java básico • Programação Orientada a Objetos
-SQL básico • Modelagem de software • Estruturas de dados básicas
+<p align="center">
+Lógica de programação • Java básico • Programação Orientada a Objetos<br>
+SQL básico • Modelagem de software • Estruturas de dados básicas<br>
 HTML, CSS e JavaScript • Git e GitHub • Pacote Office / Google Workspace
+</p>
 
 </div>
 
@@ -62,15 +64,19 @@ HTML, CSS e JavaScript • Git e GitHub • Pacote Office / Google Workspace
 
 <div align="center">
 
-```txt
-A quiet mind, a blank screen, and something waiting to exist.
-```
+<table>
+  <tr>
+    <td align="center">
+      <code>A quiet mind, a blank screen, and something waiting to exist.</code>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-<h2 align="center">Projetos em destaque</h2> 
+<h2 align="center">Projetos em destaque</h2>
 
 <div align="center">
 
@@ -133,11 +139,15 @@ A quiet mind, a blank screen, and something waiting to exist.
 
 <div align="center">
 
-```txt
-The screen is not empty anymore.
-Three fragments were saved.
-The project continues.
-```
+<table>
+  <tr>
+    <td align="center">
+      <code>The screen is not empty anymore.</code><br>
+      <code>Three fragments were saved.</code><br>
+      <code>The project continues.</code>
+    </td>
+  </tr>
+</table>
 
 </div>
 
