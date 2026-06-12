@@ -88,185 +88,160 @@
 <img alt="GitHub logo" height="42" width="52" src="https://cdn.simpleicons.org/github/FFFFFF">
 <img alt="Visual Studio Code logo" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img alt="Vercel logo" height="42" width="52" src="https://cdn.simpleicons.org/vercel/FFFFFF">
-
-<br><br>
-
-<img alt="Shopify" src="https://img.shields.io/badge/Shopify-000000?style=for-the-badge&logo=shopify&logoColor=FFFFFF">
-<img alt="Liquid" src="https://img.shields.io/badge/Liquid-000000?style=for-the-badge&logo=shopify&logoColor=FFFFFF">
+<img alt="Shopify logo" height="42" width="52" src="https://api.iconify.design/logos:shopify.svg">
+<img alt="Liquid logo" height="42" width="52" src="https://api.iconify.design/vscode-icons:file-type-liquid.svg">
 
 <br><br>
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <strong>Área | Area</strong>
+    <td width="33%" align="center" valign="top">
+      <h3>Base técnica</h3>
+      <p><strong>PT-BR</strong></p>
+      <p>
+        <code>Lógica de programação</code>
+        <code>Java</code>
+        <code>POO</code>
+        <code>Estruturas de dados</code>
+        <code>SQL</code>
+        <code>Modelagem de software</code>
+      </p>
+      <p><strong>EN</strong></p>
+      <p>
+        <code>Programming logic</code>
+        <code>Java</code>
+        <code>OOP</code>
+        <code>Data structures</code>
+        <code>SQL</code>
+        <code>Software modeling</code>
+      </p>
     </td>
-    <td align="center" width="37%">
-      <strong>PT-BR</strong>
-    </td>
-    <td align="center" width="38%">
-      <strong>EN</strong>
-    </td>
+
+<td width="33%" align="center" valign="top">
+  <h3>Front-end</h3>
+  <p><strong>PT-BR</strong></p>
+  <p>
+    <code>HTML5</code>
+    <code>CSS3</code>
+    <code>JavaScript</code>
+    <code>TypeScript</code>
+    <code>React</code>
+    <code>Tailwind CSS</code>
+  </p>
+  <p><strong>EN</strong></p>
+  <p>
+    <code>HTML5</code>
+    <code>CSS3</code>
+    <code>JavaScript</code>
+    <code>TypeScript</code>
+    <code>React</code>
+    <code>Tailwind CSS</code>
+  </p>
+</td>
+
+<td width="33%" align="center" valign="top">
+  <h3>Interfaces</h3>
+  <p><strong>PT-BR</strong></p>
+  <p>
+    <code>Design responsivo</code>
+    <code>Mobile-first</code>
+    <code>UI/UX</code>
+    <code>Landing pages</code>
+    <code>Portfólios interativos</code>
+    <code>Interfaces de e-commerce</code>
+  </p>
+  <p><strong>EN</strong></p>
+  <p>
+    <code>Responsive design</code>
+    <code>Mobile-first</code>
+    <code>UI/UX</code>
+    <code>Landing pages</code>
+    <code>Interactive portfolios</code>
+    <code>E-commerce interfaces</code>
+  </p>
+</td>
+
   </tr>
 
   <tr>
-    <td align="center">
-      <strong>Base técnica</strong><br>
-      <sub>Technical foundation</sub>
+    <td width="33%" align="center" valign="top">
+      <h3>Interações</h3>
+      <p><strong>PT-BR</strong></p>
+      <p>
+        <code>Manipulação do DOM</code>
+        <code>LocalStorage</code>
+        <code>Animações CSS</code>
+        <code>Transições</code>
+        <code>Hover effects</code>
+        <code>Microinterações</code>
+      </p>
+      <p><strong>EN</strong></p>
+      <p>
+        <code>DOM manipulation</code>
+        <code>LocalStorage</code>
+        <code>CSS animations</code>
+        <code>Transitions</code>
+        <code>Hover effects</code>
+        <code>Microinteractions</code>
+      </p>
     </td>
-    <td align="center">
-      Lógica de programação<br>
-      Java<br>
-      Programação Orientada a Objetos<br>
-      Estruturas de dados<br>
-      SQL<br>
-      Modelagem de software
-    </td>
-    <td align="center">
-      Programming logic<br>
-      Java<br>
-      Object-Oriented Programming<br>
-      Data structures<br>
-      SQL<br>
-      Software modeling
-    </td>
-  </tr>
 
-  <tr>
-    <td align="center">
-      <strong>Front-end</strong><br>
-      <sub>Web development</sub>
-    </td>
-    <td align="center">
-      HTML5<br>
-      CSS3<br>
-      JavaScript<br>
-      TypeScript<br>
-      React<br>
-      Tailwind CSS
-    </td>
-    <td align="center">
-      HTML5<br>
-      CSS3<br>
-      JavaScript<br>
-      TypeScript<br>
-      React<br>
-      Tailwind CSS
-    </td>
-  </tr>
+<td width="33%" align="center" valign="top">
+  <h3>Funcionalidades</h3>
+  <p><strong>PT-BR</strong></p>
+  <p>
+    <code>Login fictício</code>
+    <code>Login funcional</code>
+    <code>Carrinho funcional</code>
+    <code>Filtros de produtos</code>
+    <code>Favoritos</code>
+    <code>Quiz interativo</code>
+    <code>Pedido via WhatsApp</code>
+  </p>
+  <p><strong>EN</strong></p>
+  <p>
+    <code>Fictional login</code>
+    <code>Functional login</code>
+    <code>Functional cart</code>
+    <code>Product filters</code>
+    <code>Favorites</code>
+    <code>Interactive quiz</code>
+    <code>WhatsApp ordering</code>
+  </p>
+</td>
 
-  <tr>
-    <td align="center">
-      <strong>Interfaces</strong><br>
-      <sub>UI / UX</sub>
-    </td>
-    <td align="center">
-      Design responsivo<br>
-      Mobile-first<br>
-      UI/UX para interfaces web<br>
-      Landing pages<br>
-      Portfólios interativos<br>
-      Interfaces de e-commerce
-    </td>
-    <td align="center">
-      Responsive design<br>
-      Mobile-first<br>
-      UI/UX for web interfaces<br>
-      Landing pages<br>
-      Interactive portfolios<br>
-      E-commerce interfaces
-    </td>
-  </tr>
+<td width="33%" align="center" valign="top">
+  <h3>Ferramentas</h3>
+  <p><strong>PT-BR</strong></p>
+  <p>
+    <code>Supabase</code>
+    <code>Git</code>
+    <code>GitHub</code>
+    <code>GitHub Pages</code>
+    <code>Vercel</code>
+    <code>VS Code</code>
+    <code>Shopify</code>
+    <code>Liquid</code>
+    <code>Office / Google Workspace</code>
+  </p>
+  <p><strong>EN</strong></p>
+  <p>
+    <code>Supabase</code>
+    <code>Git</code>
+    <code>GitHub</code>
+    <code>GitHub Pages</code>
+    <code>Vercel</code>
+    <code>VS Code</code>
+    <code>Shopify</code>
+    <code>Liquid</code>
+    <code>Office / Google Workspace</code>
+  </p>
+</td>
 
-  <tr>
-    <td align="center">
-      <strong>Interações</strong><br>
-      <sub>Features</sub>
-    </td>
-    <td align="center">
-      Manipulação do DOM<br>
-      LocalStorage<br>
-      Animações CSS<br>
-      Transições<br>
-      Hover effects<br>
-      Microinterações
-    </td>
-    <td align="center">
-      DOM manipulation<br>
-      LocalStorage<br>
-      CSS animations<br>
-      Transitions<br>
-      Hover effects<br>
-      Microinteractions
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <strong>Funcionalidades</strong><br>
-      <sub>Project features</sub>
-    </td>
-    <td align="center">
-      Carrinho funcional<br>
-      Filtros de produtos<br>
-      Favoritos<br>
-      Quiz interativo<br>
-      Login fictício<br>
-      Pedido via WhatsApp
-    </td>
-    <td align="center">
-      Functional cart<br>
-      Product filters<br>
-      Favorites<br>
-      Interactive quiz<br>
-      Fictional login<br>
-      WhatsApp ordering
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <strong>Ferramentas</strong><br>
-      <sub>Tools</sub>
-    </td>
-    <td align="center">
-      Git e GitHub<br>
-      GitHub Pages<br>
-      Vercel<br>
-      VS Code<br>
-      Supabase<br>
-      Office / Google Workspace
-    </td>
-    <td align="center">
-      Git and GitHub<br>
-      GitHub Pages<br>
-      Vercel<br>
-      VS Code<br>
-      Supabase<br>
-      Office / Google Workspace
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <strong>Shopify</strong><br>
-      <sub>E-commerce</sub>
-    </td>
-    <td align="center">
-      Shopify structure<br>
-      Liquid<br>
-      Shopify Theme Development
-    </td>
-    <td align="center">
-      Shopify structure<br>
-      Liquid<br>
-      Shopify Theme Development
-    </td>
   </tr>
 </table>
 
 </div>
-
 
 ---
 
@@ -333,13 +308,13 @@
 <td width="33%" align="center" valign="top">
   <h3>Noir Café</h3>
   <p>
-    <strong>PT-BR:</strong> Cardápio digital interativo com filtros, carrinho, quiz, login fictício e pedido via WhatsApp.
+    <strong>PT-BR:</strong> Cardápio digital interativo com filtros, carrinho, quiz, login fictício e funcional e pedido via WhatsApp.
   </p>
   <p>
-    <strong>EN:</strong> Interactive digital menu with filters, cart, quiz, fictional login and WhatsApp ordering.
+    <strong>EN:</strong> Interactive digital menu with filters, cart, quiz, fictional and functional login and WhatsApp ordering.
   </p>
   <p>
-    <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>LocalStorage</code>
+    <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>LocalStorage</code> <code>Login</code>
   </p>
   <a href="https://sthinxy.github.io/noircafe/">
     <img src="https://img.shields.io/badge/LIVE%20SITE-000000?style=for-the-badge&logo=githubpages&logoColor=FFFFFF&labelColor=000000&color=000000" alt="Open Noir Café live site">
@@ -349,6 +324,7 @@
     <img src="https://img.shields.io/badge/REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000&color=000000" alt="Open Noir Café repository">
   </a>
 </td>
+```
 
   </tr>
 </table>
