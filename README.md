@@ -30,10 +30,10 @@
         Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela UNIFACS, construindo minha trajetória na área de tecnologia por meio de estudos, projetos práticos e desenvolvimento constante.
       </p>
       <p align="center">
-        Atualmente, estudo <strong>lógica de programação, Java, SQL, Programação Orientada a Objetos, modelagem de software, estruturas de dados, HTML, CSS e JavaScript</strong>.
+        Tenho conhecimentos em <strong>lógica de programação, Java, SQL, Programação Orientada a Objetos, modelagem de software, estruturas de dados, HTML5, CSS3, JavaScript, TypeScript, React, Tailwind CSS, Supabase e Shopify/Liquid</strong>.
       </p>
       <p align="center">
-        Tenho interesse em desenvolvimento de sistemas, criação de interfaces e soluções web funcionais, organizadas e com identidade visual. Cada projeto aqui representa uma etapa do meu crescimento como desenvolvedora.
+        Tenho interesse em desenvolvimento de sistemas, criação de interfaces, landing pages, portfólios interativos e soluções web funcionais, responsivas e com identidade visual. Cada projeto aqui representa uma etapa do meu crescimento como desenvolvedora.
       </p>
     </td>
     <td width="50%" valign="top">
@@ -42,10 +42,10 @@
         I am a <strong>Systems Analysis and Development</strong> student at UNIFACS, building my path in technology through continuous learning, practical projects and hands-on experience.
       </p>
       <p align="center">
-        I am currently studying <strong>programming logic, Java, SQL, Object-Oriented Programming, software modeling, data structures, HTML, CSS and JavaScript</strong>.
+        I have knowledge in <strong>programming logic, Java, SQL, Object-Oriented Programming, software modeling, data structures, HTML5, CSS3, JavaScript, TypeScript, React, Tailwind CSS, Supabase and Shopify/Liquid</strong>.
       </p>
       <p align="center">
-        I am interested in system development, interface design and functional web solutions with clear structure and visual identity. Each project here represents a step in my growth as a developer.
+        I am interested in system development, interface design, landing pages, interactive portfolios and functional, responsive web solutions with strong visual identity. Each project here represents a step in my growth as a developer.
       </p>
     </td>
   </tr>
@@ -80,26 +80,50 @@
 <img alt="HTML5 logo" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img alt="CSS3 logo" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img alt="JavaScript logo" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img alt="TypeScript logo" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img alt="React logo" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img alt="Tailwind CSS logo" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+<img alt="Supabase logo" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">
 <img alt="Git logo" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img alt="GitHub logo" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 <img alt="Visual Studio Code logo" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img alt="Vercel logo" height="42" width="52" src="https://cdn.simpleicons.org/vercel/FFFFFF">
+
+<br><br>
+
+<img alt="Shopify" src="https://img.shields.io/badge/Shopify-000000?style=for-the-badge&logo=shopify&logoColor=FFFFFF">
+<img alt="Liquid" src="https://img.shields.io/badge/Liquid-000000?style=for-the-badge&logo=shopify&logoColor=FFFFFF">
 
 <br><br>
 
 <p align="center">
 <strong>PT-BR:</strong><br>
-Lógica de programação • Java básico • Programação Orientada a Objetos<br>
-SQL básico • Modelagem de software • Estruturas de dados básicas<br>
-HTML, CSS e JavaScript • DOM • LocalStorage • Responsividade<br>
-Git e GitHub • GitHub Pages • Interfaces web • Pacote Office / Google Workspace
+Lógica de programação • Java • Programação Orientada a Objetos<br>
+Estruturas de dados • SQL • Modelagem de software<br>
+HTML5 • CSS3 • JavaScript • TypeScript<br>
+React • Tailwind CSS • Manipulação do DOM • LocalStorage<br>
+Design responsivo • Mobile-first • UI/UX para interfaces web<br>
+Animações CSS • Transições • Hover effects • Microinterações<br>
+Landing pages • Portfólios interativos • Interfaces de e-commerce<br>
+Carrinho funcional • Filtros de produtos • Favoritos • Quiz interativo<br>
+Supabase • Git e GitHub • GitHub Pages • Vercel • VS Code<br>
+Shopify structure • Liquid / Shopify Theme Development<br>
+Office / Google Workspace
 </p>
 
 <p align="center">
 <strong>EN:</strong><br>
-Programming logic • Basic Java • Object-Oriented Programming<br>
-Basic SQL • Software modeling • Basic data structures<br>
-HTML, CSS and JavaScript • DOM • LocalStorage • Responsive design<br>
-Git and GitHub • GitHub Pages • Web interfaces • Office / Google Workspace
+Programming logic • Java • Object-Oriented Programming<br>
+Data structures • SQL • Software modeling<br>
+HTML5 • CSS3 • JavaScript • TypeScript<br>
+React • Tailwind CSS • DOM manipulation • LocalStorage<br>
+Responsive design • Mobile-first • UI/UX for web interfaces<br>
+CSS animations • Transitions • Hover effects • Microinteractions<br>
+Landing pages • Interactive portfolios • E-commerce interfaces<br>
+Functional cart • Product filters • Favorites • Interactive quiz<br>
+Supabase • Git and GitHub • GitHub Pages • Vercel • VS Code<br>
+Shopify structure • Liquid / Shopify Theme Development<br>
+Office / Google Workspace
 </p>
 
 </div>
@@ -185,7 +209,6 @@ Git and GitHub • GitHub Pages • Web interfaces • Office / Google Workspace
     <img src="https://img.shields.io/badge/REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000&color=000000" alt="Open Noir Café repository">
   </a>
 </td>
-```
 
   </tr>
 </table>
