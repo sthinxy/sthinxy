@@ -85,7 +85,7 @@
 <img alt="Tailwind CSS logo" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
 <img alt="Supabase logo" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">
 <img alt="Git logo" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img alt="GitHub logo" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img alt="GitHub logo" height="42" width="52" src="https://cdn.simpleicons.org/github/FFFFFF">
 <img alt="Visual Studio Code logo" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img alt="Vercel logo" height="42" width="52" src="https://cdn.simpleicons.org/vercel/FFFFFF">
 
@@ -96,37 +96,177 @@
 
 <br><br>
 
-<p align="center">
-<strong>PT-BR:</strong><br>
-Lógica de programação • Java • Programação Orientada a Objetos<br>
-Estruturas de dados • SQL • Modelagem de software<br>
-HTML5 • CSS3 • JavaScript • TypeScript<br>
-React • Tailwind CSS • Manipulação do DOM • LocalStorage<br>
-Design responsivo • Mobile-first • UI/UX para interfaces web<br>
-Animações CSS • Transições • Hover effects • Microinterações<br>
-Landing pages • Portfólios interativos • Interfaces de e-commerce<br>
-Carrinho funcional • Filtros de produtos • Favoritos • Quiz interativo<br>
-Supabase • Git e GitHub • GitHub Pages • Vercel • VS Code<br>
-Shopify structure • Liquid / Shopify Theme Development<br>
-Office / Google Workspace
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <strong>Área | Area</strong>
+    </td>
+    <td align="center" width="37%">
+      <strong>PT-BR</strong>
+    </td>
+    <td align="center" width="38%">
+      <strong>EN</strong>
+    </td>
+  </tr>
 
-<p align="center">
-<strong>EN:</strong><br>
-Programming logic • Java • Object-Oriented Programming<br>
-Data structures • SQL • Software modeling<br>
-HTML5 • CSS3 • JavaScript • TypeScript<br>
-React • Tailwind CSS • DOM manipulation • LocalStorage<br>
-Responsive design • Mobile-first • UI/UX for web interfaces<br>
-CSS animations • Transitions • Hover effects • Microinteractions<br>
-Landing pages • Interactive portfolios • E-commerce interfaces<br>
-Functional cart • Product filters • Favorites • Interactive quiz<br>
-Supabase • Git and GitHub • GitHub Pages • Vercel • VS Code<br>
-Shopify structure • Liquid / Shopify Theme Development<br>
-Office / Google Workspace
-</p>
+  <tr>
+    <td align="center">
+      <strong>Base técnica</strong><br>
+      <sub>Technical foundation</sub>
+    </td>
+    <td align="center">
+      Lógica de programação<br>
+      Java<br>
+      Programação Orientada a Objetos<br>
+      Estruturas de dados<br>
+      SQL<br>
+      Modelagem de software
+    </td>
+    <td align="center">
+      Programming logic<br>
+      Java<br>
+      Object-Oriented Programming<br>
+      Data structures<br>
+      SQL<br>
+      Software modeling
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>Front-end</strong><br>
+      <sub>Web development</sub>
+    </td>
+    <td align="center">
+      HTML5<br>
+      CSS3<br>
+      JavaScript<br>
+      TypeScript<br>
+      React<br>
+      Tailwind CSS
+    </td>
+    <td align="center">
+      HTML5<br>
+      CSS3<br>
+      JavaScript<br>
+      TypeScript<br>
+      React<br>
+      Tailwind CSS
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>Interfaces</strong><br>
+      <sub>UI / UX</sub>
+    </td>
+    <td align="center">
+      Design responsivo<br>
+      Mobile-first<br>
+      UI/UX para interfaces web<br>
+      Landing pages<br>
+      Portfólios interativos<br>
+      Interfaces de e-commerce
+    </td>
+    <td align="center">
+      Responsive design<br>
+      Mobile-first<br>
+      UI/UX for web interfaces<br>
+      Landing pages<br>
+      Interactive portfolios<br>
+      E-commerce interfaces
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>Interações</strong><br>
+      <sub>Features</sub>
+    </td>
+    <td align="center">
+      Manipulação do DOM<br>
+      LocalStorage<br>
+      Animações CSS<br>
+      Transições<br>
+      Hover effects<br>
+      Microinterações
+    </td>
+    <td align="center">
+      DOM manipulation<br>
+      LocalStorage<br>
+      CSS animations<br>
+      Transitions<br>
+      Hover effects<br>
+      Microinteractions
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>Funcionalidades</strong><br>
+      <sub>Project features</sub>
+    </td>
+    <td align="center">
+      Carrinho funcional<br>
+      Filtros de produtos<br>
+      Favoritos<br>
+      Quiz interativo<br>
+      Login fictício<br>
+      Pedido via WhatsApp
+    </td>
+    <td align="center">
+      Functional cart<br>
+      Product filters<br>
+      Favorites<br>
+      Interactive quiz<br>
+      Fictional login<br>
+      WhatsApp ordering
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>Ferramentas</strong><br>
+      <sub>Tools</sub>
+    </td>
+    <td align="center">
+      Git e GitHub<br>
+      GitHub Pages<br>
+      Vercel<br>
+      VS Code<br>
+      Supabase<br>
+      Office / Google Workspace
+    </td>
+    <td align="center">
+      Git and GitHub<br>
+      GitHub Pages<br>
+      Vercel<br>
+      VS Code<br>
+      Supabase<br>
+      Office / Google Workspace
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>Shopify</strong><br>
+      <sub>E-commerce</sub>
+    </td>
+    <td align="center">
+      Shopify structure<br>
+      Liquid<br>
+      Shopify Theme Development
+    </td>
+    <td align="center">
+      Shopify structure<br>
+      Liquid<br>
+      Shopify Theme Development
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
