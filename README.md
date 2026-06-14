@@ -361,7 +361,7 @@
 <a href="mailto:venanciobeatriz620@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000&color=000000" alt="Send me an email">
 </a>
-<a href="https://wa.me/557196356879">
+<a href="https://wa.me/558584108061">
   <img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&labelColor=000000&color=000000" alt="Contact me on WhatsApp">
 </a>
 <a href="https://www.instagram.com/noirdescent/">
